@@ -1,6 +1,6 @@
 # Hi, I'm Rahma !
 
-I'm a sophomore Software Engineering student at Cairo University, passionate about front-end development, project planning, and creative problem solving. I thrive in collaborative environments where ideas can be shared freely, and I love putting my personal ‘touch’ on every project I work on.
+I'm a junior Software Engineering student at Cairo University, passionate about front-end development, project planning, and creative problem solving. I thrive in collaborative environments where ideas can be shared freely, and I love putting my personal ‘touch’ on every project I work on.
 
 ## Tech Stack
 - *Languages:* Python, C++, Java, C#
